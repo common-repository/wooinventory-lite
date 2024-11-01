@@ -1,0 +1,131 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooInventory Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-13 08:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-6.0-beta4\n"
+"X-Domain: icmanageinv"
+
+#: include/ic-woo-manage-inventory.php:686
+msgid "Allow"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:685
+msgid "Allow, but notify customer"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:626
+#: include/ic-woo-manage-inventory.php:641
+#: include/ic-woo-manage-inventory.php:657
+msgid "Back Orders"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:684
+msgid "Do not allow"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:629
+#: include/ic-woo-manage-inventory.php:644
+#: include/ic-woo-manage-inventory.php:660
+msgid "Edit"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://plugins.infosofttech.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wooinventory-lite/"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:693
+msgid "In stock"
+msgstr ""
+
+#. Author of the plugin
+msgid "Infosoft Consultants"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:627
+#: include/ic-woo-manage-inventory.php:642
+#: include/ic-woo-manage-inventory.php:658
+msgid "Manage Stock"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:689
+msgid "No"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:694
+msgid "Out of stock"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:619
+#: include/ic-woo-manage-inventory.php:634
+#: include/ic-woo-manage-inventory.php:649
+msgid "Product Name"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:651
+msgid "Product Variation"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:622
+#: include/ic-woo-manage-inventory.php:637
+#: include/ic-woo-manage-inventory.php:653
+msgid "Regular Price"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:623
+#: include/ic-woo-manage-inventory.php:638
+#: include/ic-woo-manage-inventory.php:654
+msgid "Sale Price"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:618
+#: include/ic-woo-manage-inventory.php:633
+#: include/ic-woo-manage-inventory.php:648
+msgid "SKU"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:624
+#: include/ic-woo-manage-inventory.php:639
+#: include/ic-woo-manage-inventory.php:655
+msgid "Stock"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:625
+#: include/ic-woo-manage-inventory.php:640
+#: include/ic-woo-manage-inventory.php:656
+msgid "Stock Status"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:628
+#: include/ic-woo-manage-inventory.php:643
+#: include/ic-woo-manage-inventory.php:659
+msgid "Update"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"With WooInventory a WooCommerce Stock Manager you can easily handle various "
+"stock related settings from single page."
+msgstr ""
+
+#. Name of the plugin
+msgid "WooInventory Lite"
+msgstr ""
+
+#: include/ic-woo-manage-inventory.php:690
+msgid "Yes"
+msgstr ""
